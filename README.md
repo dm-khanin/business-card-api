@@ -2,7 +2,7 @@
 
 GraphQL API with my profile, skills, work experience and projects.
 
-Live: _link after deployment_ (free Render instance, so the first request after a pause can take up to a minute)
+Live: https://business-card-api-32z2.onrender.com/graphql (free Render instance, so the first request after a pause can take up to a minute)
 
 Stack: TypeScript, NestJS, Apollo Server, Prisma, PostgreSQL, Docker.
 
